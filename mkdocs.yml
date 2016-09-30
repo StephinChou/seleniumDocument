@@ -1,0 +1,18 @@
+site_name: My Docs
+pages:
+- [index.md,Home]
+- [1.安装.md,1.安装]
+- [2.开始.md,2.开始]
+- [3.导航.md,3.导航]
+- [4.元素定位.md,4.元素定位]
+- [5.Waits.md,5.等待事件]
+- [6.页面对象.md,6.页面对象]
+- [7.1 异常.md,7.1 异常]
+- [7.2 行为链.md,7.2 行为链]
+- [7.3 警告框.md,7.3 警告框]
+- [7.4 特殊字符.md,7.4 特殊字符]
+- [7.5 By-期望的功能-实用工具.md,7.5 By类]
+- [7.6 浏览器驱动.md,7.6 浏览器驱动]
+- [7.WebDriver API.md,7.WebDriver API]
+- [8.附录：FAQ.md,8.附录：FAQ]
+theme: readthedocs
