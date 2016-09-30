@@ -6,4 +6,4 @@
 
 [readthedoc文档](http://python-selenium-zh.readthedocs.io/zh_CN/latest/)
 
-（ps:为何markdown格式在readthedoc上这么丑,难道我还得整理成rst？_(:з」∠)_）
+（ps:为何markdown格式在readthedoc上这么丑,难道我还得整理成rst？`_(:з」∠)_`）
