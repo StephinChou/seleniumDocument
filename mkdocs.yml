@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: selenium-python中文文档
 pages:
 - [index.md,Home]
 - [1.安装.md,1.安装]
